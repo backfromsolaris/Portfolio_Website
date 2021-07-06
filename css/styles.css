@@ -1,0 +1,214 @@
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: hsl(105, 5%, 85%);
+}
+
+.background_div {
+  background-color:rgb(195, 236, 113);
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top_divs {
+  background-color: rgb(162, 226, 245); 
+  width: 100%; 
+  max-width: fit-content; 
+  padding-left: 100px; 
+  padding-right: 100px;
+  margin-left: auto; 
+  margin-right:auto; 
+  border-radius: 10px;
+  font-family: 'Nanum Gothic', sans-serif
+}
+
+hr {
+  border-style: dotted none none;
+  width: 60%;
+  border-color: grey;
+  border-width: 3px;
+  border-spacing: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#hr_why_web_dev {
+  border-style: dotted none none;
+  width: 10%;
+  border-color: grey;
+  border-width: 3px;
+  border-spacing: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 500%;
+  color: #1b262c;
+  text-align: center;
+  margin-right: 150px;
+}
+
+h2 {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 40px;
+  color: #1b262c;
+  text-align: center;
+}
+
+#glacier_pic {
+  height: 400px;
+  width: 800px;
+}
+
+#mani {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.background_p {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+  color: #1b262c
+}
+
+ul {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 20px;
+  color: #1b262c;
+}
+
+li {
+  margin: 20px 0;
+}
+
+form {
+  font-family:'Nanum Gothic', sans-serif;
+  text-align: center;
+}
+
+.grid_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  width: 100%;
+  max-width: fit-content;
+  margin: auto;
+  grid-gap: 20px;
+  background-color: rgb(230, 203, 136);
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.div_image_1 {
+  height: 200px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_2 {
+  height: 200px;
+  width: 270px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_3 {
+  height: 200px;
+  width: 380px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_4 {
+  height: 200px;
+  width: 375px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_5 {
+  height: 200px;
+  width: 380px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_6 {
+  height: 200px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_7 {
+  height: 200px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_8 {
+  height: 200px;
+  width: 320px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_9 {
+  height: 200px;
+  width: 330px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_10 {
+  height: 200px;
+  width: 315px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_11 {
+  height: 200px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div_image_12 {
+  height: 200px;
+  width: 220px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
